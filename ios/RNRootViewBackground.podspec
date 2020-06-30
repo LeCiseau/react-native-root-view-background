@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "RNRootViewBackground"
   s.version      = "1.0.0"
   s.summary      = "RNRootViewBackground"
+  s.homepage     = "https://github.com/LeCiseau/react-native-root-view-background"
   s.description  = <<-DESC
                   RNRootViewBackground
                    DESC
